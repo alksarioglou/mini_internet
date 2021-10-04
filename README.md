@@ -1,6 +1,7 @@
 # Operation of a mini-Internet
 Building and operating a fully-functional mini-Internet including dealing with intra-domain routing, inter-domain routing and policy routing by using Docker containers  
 Used **Open vSwitch for configuring the L2 switches** and the **FRRouting software routing suite for configuring the L3 routers**
+**Performed in teams of 3 people, each one of which operated one fully-functional Autonomous System (AS)**
 
 ## Project Description
 In this project, we were tasked to **build and operate our very own mini-Internet**
